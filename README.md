@@ -127,5 +127,5 @@
 
 - [FM - Complete React](https://jsfiddle.net/sonu_yadav/1s24cf4a/7/) - Frontendmasters React.js (with Introduction to Flux Architecture) 
 - [React 16+ (including Redux)](https://jsfiddle.net/sonu_yadav/5w8js7bg/) - UDEMY - React 16+ - Complete tutorial (including Redux)
-- [FM - Git under the hood](https://jsfiddle.net/sonu_yadav/nugo8y7e/5/) - Frontendmasters Git under - the hood Git In-depth
+- [FM - Git under the hood](https://jsfiddle.net/sonu_yadav/6n6590xb/3/) - Frontendmasters Git under - the hood Git In-depth
 
