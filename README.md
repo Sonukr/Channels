@@ -74,9 +74,8 @@
 - [Ben Awad](https://www.youtube.com/user/99baddawg) — React, React Native, Redux, MobX, GraphQL, Next.js, software architecture
 - [Zell Liew](https://www.youtube.com/user/zellwk) — tooling, tips & tricks
 
--
+
 ### Conferences and meetups recordings
--
 
 - [Confreaks](https://www.youtube.com/channel/UCWnPjmqvljcafA0z2U1fwKQ)
 - [Nordic.js](https://www.youtube.com/user/nordicjs)
@@ -120,12 +119,9 @@
 - [React NYC](https://www.youtube.com/channel/UC87H0RRqawG6I7oWAf9i48g)
 
 
--
-
 ### Some other **`awesome`** resources.
--
-
 - [FM - Complete React](https://jsfiddle.net/sonu_yadav/1s24cf4a/7/) - Frontendmasters React.js (with Introduction to Flux Architecture) 
-- [React 16+ (including Redux)](https://jsfiddle.net/sonu_yadav/5w8js7bg/) - UDEMY - React 16+ - Complete tutorial (including Redux)
+- [React 16+ (including Redux)](https://sonukr.github.io/t/u/rjs.html) - UDEMY - React 16+ - Complete tutorial (including Redux)
 - [FM - Git under the hood](https://jsfiddle.net/sonu_yadav/6n6590xb/3/) - Frontendmasters Git under - the hood Git In-depth
-
+- [Egghead - Async React with Redux Saga](https://sonukr.github.io/t/eh/arrs.html) - React with Redux saga
+- [Pluralsight-redux-saga](https://sonukr.github.io/t/ps/rs.html) - Redux Saga
