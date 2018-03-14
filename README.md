@@ -121,7 +121,8 @@
 
 ### Some other **`awesome`** resources.
 - [FM - Complete React](https://jsfiddle.net/sonu_yadav/1s24cf4a/7/) - Frontendmasters React.js (with Introduction to Flux Architecture) 
-- [React 16+ (including Redux)](https://sonukr.github.io/t/u/rjs.html) - UDEMY - React 16+ - Complete tutorial (including Redux)
 - [FM - Git under the hood](https://jsfiddle.net/sonu_yadav/6n6590xb/3/) - Frontendmasters Git under - the hood Git In-depth
-- [Egghead - Async React with Redux Saga](https://sonukr.github.io/t/eh/arrs.html) - React with Redux saga
+- [React 16+ (including Redux)](https://sonukr.github.io/t/u/rjs.html) - UDEMY - React 16+ - Complete tutorial (including Redux)
+- [Egghead - Async React with Redux Saga](https://sonukr.github.io/t/eh/arrs.html) - Egghead - React with Redux saga
 - [Pluralsight-redux-saga](https://sonukr.github.io/t/ps/rs.html) - Redux Saga
+- [WesBos - CSS Grid](https://sonukr.github.io/t/wb/rjs.html) - CSS Grid
