@@ -125,4 +125,4 @@
 - [React 16+ (including Redux)](https://sonukr.github.io/t/u/rjs.html) - UDEMY - React 16+ - Complete tutorial (including Redux)
 - [Egghead - Async React with Redux Saga](https://sonukr.github.io/t/eh/arrs.html) - Egghead - React with Redux saga
 - [Pluralsight-redux-saga](https://sonukr.github.io/t/ps/rs.html) - Redux Saga
-- [WesBos - CSS Grid](https://sonukr.github.io/t/wb/rjs.html) - CSS Grid
+- [WesBos - CSS Grid](https://sonukr.github.io/t/wb/cssGrid) - CSS Grid
