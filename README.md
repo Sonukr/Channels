@@ -118,11 +118,11 @@
 - [ColdFront](https://www.youtube.com/channel/UCZHbZVjG2wXaLCuHK3LZ5lw)
 - [React NYC](https://www.youtube.com/channel/UC87H0RRqawG6I7oWAf9i48g)
 
-
+<!-- 
 ### Some other **`awesome`** resources.
 - [FM - Complete React](https://jsfiddle.net/sonu_yadav/1s24cf4a/7/) - Frontendmasters React.js (with Introduction to Flux Architecture) 
 - [FM - Git under the hood](https://jsfiddle.net/sonu_yadav/6n6590xb/3/) - Frontendmasters Git under - the hood Git In-depth
 - [React 16+ (including Redux)](https://sonukr.github.io/t/u/rjs.html) - UDEMY - React 16+ - Complete tutorial (including Redux)
 - [Egghead - Async React with Redux Saga](https://sonukr.github.io/t/eh/arrs.html) - Egghead - React with Redux saga
 - [Pluralsight-redux-saga](https://sonukr.github.io/t/ps/rs.html) - Redux Saga
-- [WesBos - CSS Grid](https://sonukr.github.io/t/wb/cssGrid) - CSS Grid
+- [WesBos - CSS Grid](https://sonukr.github.io/t/wb/cssGrid) - CSS Grid -->
